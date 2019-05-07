@@ -26,7 +26,7 @@
 	</tr>
 	
 	<tr>
-		<td>
+		<td style="background-color:#000">
 			<jsp:include page="footer.jsp" flush="false"/>
 		</td>	
 	</tr>

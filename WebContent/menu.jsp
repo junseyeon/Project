@@ -141,9 +141,9 @@ hr{
 }
 </style>
 </head>
-<body>
+<body style="background-color:#fff">
 <div class="navbar2">
-<table border="0" width=100%>
+<table border="0" width=100% >
 <tr>
 <td valign="middle" width=35%><a href="content.jsp"><img src="img/logo.PNG" class="logo"></a></td>
 <td width=7%>
